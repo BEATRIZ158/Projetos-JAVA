@@ -1,4 +1,4 @@
-# ☕ Projetos java!
+# ☕ Projetos Java!
 
 Olá! Tudo bem?
 
