@@ -46,6 +46,9 @@ Cada um desses Form representa uma tela ou Frame da aplicação e seus respectiv
 
 ## Capturas de Tela
 
+### Tela Inicial
+![Tela Inicial](Imagens/Tela%20Inicial.png)
+
 ### Tela Cadastro de Cidades
 ![Tela Cadastro de Cidades](Imagens/Cadastro%20Cidade.png)
 
