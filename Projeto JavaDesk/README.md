@@ -7,5 +7,8 @@ Juntas essas camadas são responsáveis por tornar o código mais estruturado, o
 
 ## Capturas de Tela
 
-![Tela Cadastro de Cidades](imagens/Cadastro%20Cidade.png)
-![Tela Cadastro de Estados](imagens/Cadastro%20Estados.png)
+### Tela Cadastro de Cidades
+![Tela Cadastro de Cidades](Imagens/Cadastro%20Cidade.png)
+
+### Tela Cadastro de Estados
+![Tela Cadastro de Estados](Imagens/Cadastro%20Estados.png)
